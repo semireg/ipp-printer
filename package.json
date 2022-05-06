@@ -1,6 +1,6 @@
 {
   "name": "ipp-printer",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Create a printer on the network",
   "main": "index.js",
   "bin": "./bin.js",
